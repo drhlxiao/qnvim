@@ -2,7 +2,7 @@
 
 A minimal gvim-style Qt GUI for Neovim. It renders Neovim's grid through `ext_linegrid`, builds the menu bar from Neovim's `menu.vim`, and provides a toolbar.
 
-<img src="screenshot.png" alt="description" width="800">
+<img src="Screenshot from 2026-10-18 11-41-40.png" alt="description" width="800">
 
 ## Requirements
 
